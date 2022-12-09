@@ -1,5 +1,4 @@
 # Repositório de Physics-informed Neural Network 
-Repositório de Physics-informed Neural Network 
 
 # Ideia 
 
