@@ -102,4 +102,4 @@ def plot3(U_predicao,X_U_Treino,U_Treino, T, X, x, t, solucao):
     axi.set_ylim([-1.1,1.1])    
     axi.set_title('$t = 0.75s$', fontsize = 10)
     
-    plt.savefig('Eq_Burgers.png',dpi = 500)   
+    plt.savefig('Resultado_Eq_Burgers.png',dpi = 500)   
