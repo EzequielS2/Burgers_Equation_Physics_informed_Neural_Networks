@@ -2,7 +2,7 @@
 
 # Ideia 
 
-O objetivo principal aqui é fazer uma aproximação da Equação de Burges 1D usando Neural Networks
+O objetivo principal aqui é fazer uma aproximação da Equação de Burgers 1D usando Neural Networks
 
 # Requerimentos
 
